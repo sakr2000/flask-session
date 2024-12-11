@@ -1,0 +1,27 @@
+# Python compiled files
+*.pyc
+*.pyo
+__pycache__/
+
+# Environment files
+.env
+.env.*
+
+# Flask specific
+instance/
+*.log
+
+# Virtual Environment
+venv/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Editor/IDE
+.vscode/
+.idea/
+
+# System files
+.DS_Store
+Thumbs.db
+desktop.ini
